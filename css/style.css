@@ -21,7 +21,7 @@ body {
   height: 100vh;
   position: relative;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/images/netflix-banner-image.jpg);
+    url(../images/netflix-banner-image.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
